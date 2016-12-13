@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkManager", "WorkManager\WorkManager.csproj", "{F78FB699-5966-4ABE-9076-DFDAB87D64A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkManager.Messages", "WorkManager.Messages\WorkManager.Messages.csproj", "{88BF74F2-8056-4F8F-BFA5-50E4B5E83504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78FB699-5966-4ABE-9076-DFDAB87D64A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78FB699-5966-4ABE-9076-DFDAB87D64A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78FB699-5966-4ABE-9076-DFDAB87D64A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78FB699-5966-4ABE-9076-DFDAB87D64A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BF74F2-8056-4F8F-BFA5-50E4B5E83504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BF74F2-8056-4F8F-BFA5-50E4B5E83504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BF74F2-8056-4F8F-BFA5-50E4B5E83504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BF74F2-8056-4F8F-BFA5-50E4B5E83504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
